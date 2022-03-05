@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-weather-app/static/css/main.dd591783.css",
+    "main.js": "/react-weather-app/static/js/main.22d8eb8a.js",
+    "static/media/warm-bg.jpg": "/react-weather-app/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/drizzle2.jpg": "/react-weather-app/static/media/drizzle2.eef6693515ee0fc988b9.jpg",
+    "static/media/rain2.jpg": "/react-weather-app/static/media/rain2.96c0b4f2eac3826ebb2e.jpg",
+    "static/media/clouds1.jpg": "/react-weather-app/static/media/clouds1.4f2910e43f6a79233641.jpg",
+    "static/media/tstorm2.jpg": "/react-weather-app/static/media/tstorm2.a3d463c11bacf3256d5e.jpg",
+    "static/media/clear1.jpg": "/react-weather-app/static/media/clear1.07c5b01f214f45f367ab.jpg",
+    "static/media/snowyicon.png": "/react-weather-app/static/media/snowyicon.9957456da0445490c376.png",
+    "static/media/wind.png": "/react-weather-app/static/media/wind.76f7288fe627e6890c82.png",
+    "static/media/rainicon.png": "/react-weather-app/static/media/rainicon.5380eba1128fa19c326f.png",
+    "static/media/stormicon.png": "/react-weather-app/static/media/stormicon.cb8726bd28c18f529c4a.png",
+    "static/media/cloudyicon.png": "/react-weather-app/static/media/cloudyicon.20f0cc1d2fa7fabb49bb.png",
+    "static/media/snow2.jpg": "/react-weather-app/static/media/snow2.c1585a980f8fbe916d64.jpg",
+    "static/media/drizzleicon.png": "/react-weather-app/static/media/drizzleicon.31150bd7471d99e8f2d9.png",
+    "static/media/fog1.jpg": "/react-weather-app/static/media/fog1.849782b584e66f259fc4.jpg",
+    "static/media/clearicon.png": "/react-weather-app/static/media/clearicon.6d48da504f4816188c8d.png",
+    "index.html": "/react-weather-app/index.html",
+    "main.dd591783.css.map": "/react-weather-app/static/css/main.dd591783.css.map",
+    "main.22d8eb8a.js.map": "/react-weather-app/static/js/main.22d8eb8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd591783.css",
+    "static/js/main.22d8eb8a.js"
+  ]
+}
